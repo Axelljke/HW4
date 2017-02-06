@@ -59,7 +59,7 @@ namespace CheckText
             }
 
         }
-        //Метод считывания слов из сроки ввода
+        //Метод считывания слов из строки ввода
         void GetWordsList()
         {
             int PosStart = 0;
