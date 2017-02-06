@@ -1,0 +1,9 @@
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\bin\Debug\CheckText.exe.config
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\bin\Debug\CheckText.exe
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\bin\Debug\CheckText.pdb
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.csprojResolveAssemblyReference.cache
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.Form1.resources
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.Properties.Resources.resources
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.csproj.GenerateResource.Cache
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.exe
+c:\users\axell\documents\visual studio 2015\Projects\CheckText\CheckText\obj\Debug\CheckText.pdb
